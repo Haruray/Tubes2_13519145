@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="cocksuckingporngame.exe" version="1.0.0.1" publicKeyToken="50ff390b41364f3f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="cocksuckingporngame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="cocksuckingporngame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AutomaticGraphLayout.dll" size="1602048">
+      <assemblyIdentity name="AutomaticGraphLayout" version="0.0.0.0" publicKeyToken="6BAA2C1345E83B6E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GOf2VSFmrkAIlC62s2M/a6qRGSY6XJpFO42l3UlQmXI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AutomaticGraphLayout.Drawing.dll" size="151040">
+      <assemblyIdentity name="AutomaticGraphLayout.Drawing" version="0.0.0.0" publicKeyToken="6BAA2C1345E83B6E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SrftUDA2Y++6nYcjAEErxyUGpys3MELoD0c8eWJ11Y4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cocksuckingporngame.exe" size="9736">
+      <assemblyIdentity name="cocksuckingporngame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gZYuPZKiTtH702HWq0WgWavJcFu2m2gqkhI1E3tJtlw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Msagl.GraphViewerGdi.dll" size="156160">
+      <assemblyIdentity name="Microsoft.Msagl.GraphViewerGdi" version="0.0.0.0" publicKeyToken="6BAA2C1345E83B6E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bFvNQE2UTQxs2qk45jH8BBNfI8xHZV39bubk74JeYow=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Msagl.WpfGraphControl.dll" size="67072">
+      <assemblyIdentity name="Microsoft.Msagl.WpfGraphControl" version="1.0.0.0" publicKeyToken="6BAA2C1345E83B6E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GEr0R8pPt/eOr8MMYwyVBMsZokpixSosu3XjfXcgtFY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cocksuckingporngame.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=LAPTOP-4NCB7NRQ\SAFIQ FARAY" issuerKeyHash="c435eee0afd3b030d1f567ea8d60c6c165ac9189" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9IuMd6/BIF0ts2Hl9HWjuntbse/TZrdHhIDaYBXoC+Y=</DigestValue></Reference></SignedInfo><SignatureValue>dyR/zoruI809pbtlgDUVAIP9+b1DS7/vswK3StCJKA7og4jsaSrS1txM3gO0cfz+V/bAjfB0rw5CHG4pMChhCjhtZtVM7muUik+3I5gAySvsWpQdSqlRHj9sinpWZm1gPivVGWE1N3h0dMzJf2OjdHJcTarTVA+S7XGkmdo4Cto=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>q+JEGbE2lmaVna8P4IC59qlbxyCgYC8wuOWCsIPUYVcZyXNnsF9xF2VdAPb+5+exSUfXH0cnuGG+wARZID3AJ8kyDNyia9Fp5KQFsZUh054ob7q6lZPTVSg5SxITLQ45I2pxLB8zqrExnLevYy6SRnHGhGQZuMPH4sROlF39sPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e60be81560da808447b766d3efb15b7bbaa375f4e561b32d5d20c1af778c8bf4" Description="" Url=""><as:assemblyIdentity name="cocksuckingporngame.exe" version="1.0.0.1" publicKeyToken="50ff390b41364f3f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-4NCB7NRQ\SAFIQ FARAY</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SPrBGiS5997yaJlGUWihIc+FBPFbXF2Hq3UbKgRUaXE=</DigestValue></Reference></SignedInfo><SignatureValue>D4b++jKsshosKuXwjm5V4inl4CcesVqk6OgXmPU5+BR5VHYzYgr0Vl9LfVwK1cnPq3f/Cke/NRSTdjThRkCjVtFra27uu2UoOY3u49WYH8HTohcvyT7hUqqqahqkEVK6Os1rEwxu5pk3ajjRapkAVue9Y4ErxJRskdeN4OE2KyA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>q+JEGbE2lmaVna8P4IC59qlbxyCgYC8wuOWCsIPUYVcZyXNnsF9xF2VdAPb+5+exSUfXH0cnuGG+wARZID3AJ8kyDNyia9Fp5KQFsZUh054ob7q6lZPTVSg5SxITLQ45I2pxLB8zqrExnLevYy6SRnHGhGQZuMPH4sROlF39sPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQP/vTlizYT4ZIt8GkWUnRXDANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYATABBAFAAVABPAFAALQA0AE4AQwBCADcATgBSAFEAXABTAEEARgBJAFEAIABGAEEAUgBBAFkwHhcNMjEwMzE5MDQwODM0WhcNMjIwMzE5MTAwODM0WjBBMT8wPQYDVQQDHjYATABBAFAAVABPAFAALQA0AE4AQwBCADcATgBSAFEAXABTAEEARgBJAFEAIABGAEEAUgBBAFkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKviRBmxNpZmlZ2vD+CAufapW8cgoGAvMLjlgrCD1GFXGclzZ7BfcRdlXQD2/ufnsUlH1x9HJ7hhvsAEWSA9wCfJMgzcomvRaeSkBbGVIdOeKG+6upWT01UoOUsSEy0OOSNqcSwfM6qxMZy3r2MukkZxxoRkGbjDx+LETpRd/bDxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAi3wlOi2G/carXcfnOffKeaZA2ZCuNRzk1vtLw2lOmPlvLcZ/ujh5sU/e0JbL52wBAy6WfENYKOHsk1k8MRJtsjqwnZ2GVJE9ErRodLjXePwf9D+vZV+LVtV3P/6Rz95taesmxcyTygairugiZAzsyJnb+rH07XZ1g2jRLYT/5DM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
