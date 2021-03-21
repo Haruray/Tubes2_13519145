@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tubesstima.exe" size="58888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tubesstima.exe" size="62472">
       <assemblyIdentity name="tubesstima" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dgiClfnhWwEGwH6eKgAikf2/48ZxbCBSjG2Hw51U76w=</dsig:DigestValue>
+        <dsig:DigestValue>qcsWYrxA3qf68yay3pZIeF1hZjWRbdPpYHgO3o/yh8c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

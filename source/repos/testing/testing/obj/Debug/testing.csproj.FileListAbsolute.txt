@@ -5,7 +5,6 @@ C:\Users\SAFIQ FARAY\source\repos\testing\testing\bin\Debug\AutomaticGraphLayout
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\bin\Debug\AutomaticGraphLayout.Drawing.dll
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
-C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\testing.Form1.resources
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\testing.csproj.CopyComplete
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.Properties.Resources.resources
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\bin\Debug\tubesstima.exe.config
@@ -18,3 +17,4 @@ C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.exe.manif
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.application
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.exe
 C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.pdb
+C:\Users\SAFIQ FARAY\source\repos\testing\testing\obj\Debug\tubesstima.Form1.resources

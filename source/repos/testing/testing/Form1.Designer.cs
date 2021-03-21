@@ -263,16 +263,16 @@
             // panel2
             // 
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 372);
+            this.panel2.Location = new System.Drawing.Point(0, 343);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1023, 149);
+            this.panel2.Size = new System.Drawing.Size(1023, 178);
             this.panel2.TabIndex = 1;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(249, 20);
+            this.pictureBox1.Location = new System.Drawing.Point(263, 20);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(507, 320);
+            this.pictureBox1.Size = new System.Drawing.Size(520, 314);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
