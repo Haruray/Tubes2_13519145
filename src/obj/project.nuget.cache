@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSLTjGg1/P9x9vbdCddT6jevYEKnkcdQqeLV3hCy4nvrHUxsZFTPmoqJpt/O+QKyydx2OzdzepIhQAbjF9kFfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAFIQ FARAY\\source\\repos\\TubesStima2\\TubesStima2\\TubesStima2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAFIQ FARAY\\.nuget\\packages\\automaticgraphlayout\\1.1.11\\automaticgraphlayout.1.1.11.nupkg.sha512",
+    "C:\\Users\\SAFIQ FARAY\\.nuget\\packages\\automaticgraphlayout.drawing\\1.1.11\\automaticgraphlayout.drawing.1.1.11.nupkg.sha512",
+    "C:\\Users\\SAFIQ FARAY\\.nuget\\packages\\automaticgraphlayout.graphviewergdi\\1.1.11\\automaticgraphlayout.graphviewergdi.1.1.11.nupkg.sha512",
+    "C:\\Users\\SAFIQ FARAY\\.nuget\\packages\\automaticgraphlayout.wpfgraphcontrol\\1.1.11\\automaticgraphlayout.wpfgraphcontrol.1.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
